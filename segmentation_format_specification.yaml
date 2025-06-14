@@ -1,0 +1,44 @@
+
+meta:
+  title: "Sample Segmentation"
+  source_file: "performance_01.mp4"
+  duration: 120.0
+  units: "seconds"
+  annotators:
+    - "user_a"
+  version: "1.0"
+  date_capture: "2023-05-12"
+  datum_capture: "2023-05-12"
+  datum_entered: "2023-05-14"
+  comment: "Captured during rehearsal"
+  link: "http://example.com/project"
+  modality:
+    VIDEO:
+      one_take: true
+      single_subject: true
+    AUDIO:
+      channels: 2
+      raw_preprocessed: "raw"
+      subjective_quality: 6
+
+salta:
+  project_id: "proj_123"
+  primary_category: "gesture"
+  secondary_category: "duo"
+  date_entered: "2023-05-15"
+  uploader_id: "user123"
+
+segmentations:
+  segmentation0:
+    type: "AUTO"
+    date: "2023-05-15"
+    user_feedback: 5
+    segments:
+      - start: 0.0
+        end: 10.5
+        label: "intro"
+      - start: 10.5
+        end: 30.0
+      - start: 30.0
+        end: 50.0
+        label: "gesture A"
