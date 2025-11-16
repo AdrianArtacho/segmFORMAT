@@ -1,0 +1,208 @@
+{
+  "performance_modalities": {
+    "music": {
+      "instrumental": {
+        "solo": [
+          "piano",
+          "violin",
+          "cello",
+          "flute",
+          "clarinet",
+          "guitar",
+          "percussion",
+          "electronics",
+          "live electronics",
+          "computer music"
+        ],
+        "ensemble": [
+          "string quartet",
+          "wind quintet",
+          "orchestra",
+          "chamber ensemble",
+          "jazz ensemble",
+          "electroacoustic ensemble",
+          "big band",
+          "mixed ensemble"
+        ]
+      },
+      "vocal": {
+        "solo_voice": [
+          "soprano",
+          "mezzo",
+          "alto",
+          "tenor",
+          "baritone",
+          "bass",
+          "extended vocal techniques"
+        ],
+        "choral": [
+          "children choir",
+          "mixed choir",
+          "male choir",
+          "female choir",
+          "vocal ensemble"
+        ]
+      },
+      "electronic": {
+        "categories": [
+          "fixed media",
+          "live electronics",
+          "tape and instrument",
+          "algorithmic music",
+          "acousmatic",
+          "computer generated sound",
+          "interactive music"
+        ]
+      },
+      "genres": {
+        "classical": [
+          "baroque",
+          "classical period",
+          "romantic",
+          "20th century",
+          "contemporary classical"
+        ],
+        "popular": [
+          "rock",
+          "pop",
+          "electronic dance music",
+          "techno",
+          "hip hop",
+          "ambient"
+        ],
+        "jazz": [
+          "traditional jazz",
+          "bebop",
+          "free jazz",
+          "fusion"
+        ],
+        "experimental": [
+          "sound art",
+          "noise",
+          "improvisation",
+          "site specific performance"
+        ]
+      }
+    },
+
+    "dance": {
+      "contemporary": [
+        "contemporary dance",
+        "postmodern dance",
+        "improvisation",
+        "contact improvisation",
+        "somatic practices"
+      ],
+      "ballet": [
+        "classical ballet",
+        "neoclassical ballet"
+      ],
+      "social": [
+        "tango",
+        "waltz",
+        "salsa",
+        "swing",
+        "ballroom dances"
+      ],
+      "urban": [
+        "hip hop dance",
+        "breakdance",
+        "voguing",
+        "krump"
+      ],
+      "ethnic_traditional": [
+        "folk dance",
+        "ritual dance",
+        "indigenous dance",
+        "dance theatre"
+      ],
+      "experimental": [
+        "performance dance",
+        "intermedia dance",
+        "task based choreography",
+        "movement research"
+      ]
+    },
+
+    "theatre": {
+      "dramatic": [
+        "tragedy",
+        "comedy",
+        "drama",
+        "mono drama",
+        "scripted theatre"
+      ],
+      "postdramatic": [
+        "performance theatre",
+        "devised theatre",
+        "physical theatre",
+        "immersive theatre"
+      ],
+      "intermedia": [
+        "multimedia theatre",
+        "digital theatre",
+        "telepresence performance"
+      ],
+      "traditional_forms": [
+        "commedia dell arte",
+        "puppetry",
+        "shadow theatre"
+      ]
+    },
+
+    "performance_art": {
+      "categories": [
+        "performance art",
+        "body art",
+        "conceptual performance",
+        "site specific performance",
+        "participatory performance",
+        "installation based performance",
+        "action art"
+      ]
+    },
+
+    "interdisciplinary": {
+      "hybrid": [
+        "music theatre",
+        "opera",
+        "music and dance hybrid",
+        "algorithmic performance",
+        "audiovisual performance",
+        "machine mediated performance",
+        "VR performance",
+        "AR performance",
+        "robotic performance"
+      ],
+      "media_arts": [
+        "live cinema",
+        "projection mapping performance",
+        "interactive installation",
+        "sensor based performance"
+      ]
+    },
+
+    "contextual_modifiers": {
+      "format": [
+        "site specific",
+        "stage performance",
+        "installation",
+        "outdoor performance",
+        "gallery performance"
+      ],
+      "temporal_structure": [
+        "fixed score",
+        "open form",
+        "improvisation",
+        "generative performance"
+      ],
+      "participation": [
+        "solo",
+        "duo",
+        "ensemble",
+        "audience participation",
+        "co created performance"
+      ]
+    }
+  }
+}
